@@ -21,7 +21,7 @@ e.g.
 ```
 
 ## License
-The project is released under (GNU General Public License, version 3.0 (GPL-3.0))[https://opensource.org/licenses/GPL-3.0]
+The project is released under [GNU General Public License, version 3.0 (GPL-3.0)](https://opensource.org/licenses/GPL-3.0)
 
 ## see also
 [HKJunkCall.com](https://hkjunkcall.com)
